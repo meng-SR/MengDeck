@@ -1,0 +1,2309 @@
+{
+    "data": [
+        {
+            "id": "1326798230538121217",
+            "text": "RT @Liz_Wheeler: If you told me 8 months ago that politicians would ban:\n\n- Dancing\n- Games\n- Singing\n- Hugging\n- Gatherings in private res??",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "Liz_Wheeler"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": "1326670985920122881",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 4519,
+            "quoteCount": 0,
+            "tweetType": "retweeted",
+            "created_at": "2020-11-12T08:05:23",
+            "author_id": "832016983",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1326670985920122881"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 4519,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": null,
+            "conversation_id": "1326798230538121217"
+        },
+        {
+            "id": "1326798228982001671",
+            "text": "RT @adriCB8: Jakarte lg anget Be !\nJakarte amburadul\" kate siMpok Megawati\"\ntapi menurut Juri ITDP dari USA \"Jakarte kote TERBAIK didunie\"??",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 11,
+                        "username": "adriCB8"
+                    }
+                ]
+            },
+            "lang": "in",
+            "inReplyToStatusId": "1326711917570748420",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 96,
+            "quoteCount": 0,
+            "tweetType": "retweeted",
+            "created_at": "2020-11-12T08:05:23",
+            "author_id": "1102183840578236420",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1326711917570748420"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 96,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1210568583509471233",
+                        "name": "Megawati Soekarnoputri",
+                        "description": "an Indonesian politician who served as the fifth president of Indonesia from 2001 to 2004."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1210568583509471233",
+                        "name": "Megawati Soekarnoputri",
+                        "description": "an Indonesian politician who served as the fifth president of Indonesia from 2001 to 2004."
+                    }
+                }
+            ],
+            "conversation_id": "1326798228982001671"
+        },
+        {
+            "id": "1326798228579348480",
+            "text": "RT @Rosannaob30: @JuliansRum In the UK That Joe Biden is president! My 5 yr old daughter came home from school yesterday telling me they ha??",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "Rosannaob30"
+                    },
+                    {
+                        "start": 17,
+                        "end": 28,
+                        "username": "JuliansRum"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 36,
+                        "end": 37,
+                        "probability": 0.9425,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    },
+                    {
+                        "start": 44,
+                        "end": 52,
+                        "probability": 0.9949,
+                        "type": "Person",
+                        "normalized_text": "Joe Biden"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": "1326773524854411264",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 5,
+            "quoteCount": 0,
+            "tweetType": "retweeted",
+            "created_at": "2020-11-12T08:05:23",
+            "author_id": "2957543586",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1326773524854411264"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "Former US Vice President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "Former US Vice President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1326798228579348480"
+        },
+        {
+            "id": "1326798226297671680",
+            "text": "Suicide figures are up 200% since lockdown. Could 2 friends please copy and re-post this tweet? We??re trying to demonstrate that someone is always listening. \n\nCall 1-800-273-8255 (USA hotline)\n\nJust two. Any two. Copy, not retweet.??",
+            "entities": null,
+            "lang": "en",
+            "inReplyToStatusId": null,
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "DEFAULT",
+            "created_at": "2020-11-12T08:05:22",
+            "author_id": "558342238",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": null,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19",
+                        "description": null
+                    }
+                }
+            ],
+            "conversation_id": "1326798226297671680"
+        },
+        {
+            "id": "1326798226285006848",
+            "text": "@mathewt25t @VinayDokania @RahulGandhi @INCIndia @priyankagandhi @srivatsayb Oh! So acc to you, speaking Hindi is a must! What about leaders from Tamil Nadu? Are they not national leaders?? Plus- it's shame that modi isn't able to speak English, nor his ministries. This was evident during the weak translation by Defence Ministry regarding China with USA",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "mathewt25t"
+                    },
+                    {
+                        "start": 12,
+                        "end": 25,
+                        "username": "VinayDokania"
+                    },
+                    {
+                        "start": 26,
+                        "end": 38,
+                        "username": "RahulGandhi"
+                    },
+                    {
+                        "start": 39,
+                        "end": 48,
+                        "username": "INCIndia"
+                    },
+                    {
+                        "start": 49,
+                        "end": 64,
+                        "username": "priyankagandhi"
+                    },
+                    {
+                        "start": 65,
+                        "end": 76,
+                        "username": "srivatsayb"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 105,
+                        "end": 109,
+                        "probability": 0.7366,
+                        "type": "Person",
+                        "normalized_text": "Hindi"
+                    },
+                    {
+                        "start": 146,
+                        "end": 155,
+                        "probability": 0.9193,
+                        "type": "Place",
+                        "normalized_text": "Tamil Nadu"
+                    },
+                    {
+                        "start": 314,
+                        "end": 329,
+                        "probability": 0.6984,
+                        "type": "Organization",
+                        "normalized_text": "Defence Ministry"
+                    },
+                    {
+                        "start": 341,
+                        "end": 345,
+                        "probability": 0.9462,
+                        "type": "Place",
+                        "normalized_text": "China"
+                    },
+                    {
+                        "start": 352,
+                        "end": 354,
+                        "probability": 0.9639,
+                        "type": "Place",
+                        "normalized_text": "USA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": "1326791235202408451",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "replied_to",
+            "created_at": "2020-11-12T08:05:22",
+            "author_id": "1223534347816333317",
+            "in_reply_to_user_id": "2244609602",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1326791235202408451"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111650922189328384",
+                        "name": "Priyanka Gandhi Vadra",
+                        "description": "Priyanka Gandhi Vadra"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1136982495591723008",
+                        "name": "Rahul Gandhi",
+                        "description": null
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111650922189328384",
+                        "name": "Priyanka Gandhi Vadra",
+                        "description": "Priyanka Gandhi Vadra"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1136982495591723008",
+                        "name": "Rahul Gandhi",
+                        "description": null
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "conversation_id": "1326783911813378051"
+        },
+        {
+            "id": "1326798225370734593",
+            "text": "RT @yokai_punipuni: ??#????????????166????\n????????????\n?????A\n???�A?????????��??\n??????̔???????????`??\n\n???????��?????????\n???ѓ?????��??????????\n????????????????��?\n???????????????????????\n??????????",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 21,
+                        "end": 29,
+                        "tag": "???????????"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 18,
+                        "username": "yokai_punipuni"
+                    }
+                ]
+            },
+            "lang": "ja",
+            "inReplyToStatusId": "1323950418502676480",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 123,
+            "quoteCount": 0,
+            "tweetType": "retweeted",
+            "created_at": "2020-11-12T08:05:22",
+            "author_id": "1301446311095410708",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1323950418502676480"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 123,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "130",
+                        "name": "Multimedia Franchise",
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+                    },
+                    "entity": {
+                        "id": "1005098436775985153",
+                        "name": "Yo-kai Watch",
+                        "description": "Yo-kai Watch (??????????)"
+                    }
+                }
+            ],
+            "conversation_id": "1326798225370734593"
+        },
+        {
+            "id": "1326798224024358913",
+            "text": "RT @SuperPRGuy: Suicide figures are up 200% since lockdown. Could 2 friends please copy and re-post this tweet? We??re trying to demonstrate??",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "SuperPRGuy"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": "1326774130964881410",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 173,
+            "quoteCount": 0,
+            "tweetType": "retweeted",
+            "created_at": "2020-11-12T08:05:21",
+            "author_id": "30235042",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1326774130964881410"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 173,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19",
+                        "description": null
+                    }
+                }
+            ],
+            "conversation_id": "1326798224024358913"
+        },
+        {
+            "id": "1326798222061416448",
+            "text": "Thousand Oaks CA USA - Project Coordinator - Facility Tech Maintenance Computerized Maintenance Mgmt: ... engineering team by delivering detailed work orders that include all the tasks parts and ... Required Skills Technic https://t.co/UOsdVyOeax",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 223,
+                        "end": 246,
+                        "url": "https://t.co/UOsdVyOeax",
+                        "expanded_url": "http://dld.bz/jmSr3",
+                        "display_url": "dld.bz/jmSr3"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 19,
+                        "probability": 0.4628,
+                        "type": "Place",
+                        "normalized_text": "Thousand Oaks CA USA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": null,
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "DEFAULT",
+            "created_at": "2020-11-12T08:05:21",
+            "author_id": "2229062466",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": null,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "962005993038073857",
+                        "name": "MGMT",
+                        "description": "MGMT"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "54",
+                        "name": "Musician",
+                        "description": "A musician in the world, like Adele or Bob Dylan"
+                    },
+                    "entity": {
+                        "id": "962005993038073857",
+                        "name": "MGMT",
+                        "description": "MGMT"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "55",
+                        "name": "Music Genre",
+                        "description": "A category for a musical style, like Pop, Rock, or Rap"
+                    },
+                    "entity": {
+                        "id": "849684194242338816",
+                        "name": "Alternative rock",
+                        "description": "Alternative"
+                    }
+                }
+            ],
+            "conversation_id": "1326798222061416448"
+        },
+        {
+            "id": "1326798221511942144",
+            "text": "@victoriafromDTX @realDonaldTrump IM LEAVING AMERICA! SCREW THIS COUNTRY! I??m moving to Alaska where they actually run a civilised and balanced nation for its people and far better than the US.I shall be leaving the USA shortly with my wife in disgust at this situation.",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "victoriafromDTX"
+                    },
+                    {
+                        "start": 17,
+                        "end": 33,
+                        "username": "realDonaldTrump"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 45,
+                        "end": 51,
+                        "probability": 0.996,
+                        "type": "Place",
+                        "normalized_text": "AMERICA"
+                    },
+                    {
+                        "start": 88,
+                        "end": 93,
+                        "probability": 0.984,
+                        "type": "Place",
+                        "normalized_text": "Alaska"
+                    },
+                    {
+                        "start": 190,
+                        "end": 191,
+                        "probability": 0.8662,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    },
+                    {
+                        "start": 216,
+                        "end": 218,
+                        "probability": 0.9617,
+                        "type": "Place",
+                        "normalized_text": "USA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": "1325933416039247872",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "replied_to",
+            "created_at": "2020-11-12T08:05:21",
+            "author_id": "1324099790217596931",
+            "in_reply_to_user_id": "715595673681338368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1325933416039247872"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "conversation_id": "1325933416039247872"
+        },
+        {
+            "id": "1326798220450795528",
+            "text": "Bellevue WA USA - Paralegal Corporate Securities Governance - We are looking for a paralegal to joi: We are looking for a paralegal to join our team and help provide excellent legal services on a wide variety of corporate https://t.co/iIn9miqwjn",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 222,
+                        "end": 245,
+                        "url": "https://t.co/iIn9miqwjn",
+                        "expanded_url": "http://dld.bz/jmSr2",
+                        "display_url": "dld.bz/jmSr2"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "probability": 0.6958,
+                        "type": "Place",
+                        "normalized_text": "Bellevue WA USA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": null,
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "DEFAULT",
+            "created_at": "2020-11-12T08:05:21",
+            "author_id": "2229020576",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": null,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": null,
+            "conversation_id": "1326798220450795528"
+        },
+        {
+            "id": "1326798217455919104",
+            "text": "@erdocmom I literally said whining that the USA elected Biden while we still have Kenney makes no sense because we're not in an election year, and the UCP all but destroyed the opposition in 2019. Like I also said, hope you take your passion and work to get the NDP elected in 2023.",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "erdocmom"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 44,
+                        "end": 46,
+                        "probability": 0.9275,
+                        "type": "Place",
+                        "normalized_text": "USA"
+                    },
+                    {
+                        "start": 56,
+                        "end": 60,
+                        "probability": 0.9957,
+                        "type": "Person",
+                        "normalized_text": "Biden"
+                    },
+                    {
+                        "start": 82,
+                        "end": 87,
+                        "probability": 0.907,
+                        "type": "Person",
+                        "normalized_text": "Kenney"
+                    },
+                    {
+                        "start": 262,
+                        "end": 264,
+                        "probability": 0.7077,
+                        "type": "Organization",
+                        "normalized_text": "NDP"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": "1326796857117470721",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "replied_to",
+            "created_at": "2020-11-12T08:05:20",
+            "author_id": "147774520",
+            "in_reply_to_user_id": "1111696930491584512",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1326796857117470721"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "Former US Vice President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "Former US Vice President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1326795115147497480"
+        },
+        {
+            "id": "1326798215136620544",
+            "text": "RT @fm21wannuumui: ????��??????��?????\n????????????y?I?��???????????????\n?m??????��???�V????\n?????m???????????????\n\nhttps://t.co/Jm9C3nFgOV",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 17,
+                        "username": "fm21wannuumui"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 86,
+                        "end": 109,
+                        "url": "https://t.co/Jm9C3nFgOV",
+                        "expanded_url": "https://jp.reuters.com/article/usa-cyber-election-idJPKCN1LR2QB",
+                        "display_url": "jp.reuters.com/article/usa-cy??"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 20,
+                        "probability": 0.8675,
+                        "type": "Place",
+                        "normalized_text": "???"
+                    },
+                    {
+                        "start": 38,
+                        "end": 44,
+                        "probability": 0.6974,
+                        "type": "Person",
+                        "normalized_text": "??????y?I"
+                    }
+                ]
+            },
+            "lang": "ja",
+            "inReplyToStatusId": "1326797192464576512",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 13,
+            "quoteCount": 0,
+            "tweetType": "retweeted",
+            "created_at": "2020-11-12T08:05:19",
+            "author_id": "996033962878251008",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1326797192464576512"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 13,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "conversation_id": "1326798215136620544"
+        },
+        {
+            "id": "1326798214801068032",
+            "text": "#covid19 #EU #USA #covidMap \nhttps://t.co/aFBRpsrZzw https://t.co/tCdz3Jy3xf",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "tag": "covid19"
+                    },
+                    {
+                        "start": 9,
+                        "end": 12,
+                        "tag": "EU"
+                    },
+                    {
+                        "start": 13,
+                        "end": 17,
+                        "tag": "USA"
+                    },
+                    {
+                        "start": 18,
+                        "end": 27,
+                        "tag": "covidMap"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 29,
+                        "end": 52,
+                        "url": "https://t.co/aFBRpsrZzw",
+                        "expanded_url": "https://covid19risk.biosci.gatech.edu/",
+                        "display_url": "covid19risk.biosci.gatech.edu"
+                    },
+                    {
+                        "start": 53,
+                        "end": 76,
+                        "url": "https://t.co/tCdz3Jy3xf",
+                        "expanded_url": "https://twitter.com/joshuasweitz/status/1326512951977783296",
+                        "display_url": "twitter.com/joshuasweitz/s??"
+                    }
+                ]
+            },
+            "lang": "und",
+            "inReplyToStatusId": "1326512951977783296",
+            "likeCount": 1,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "quoted",
+            "created_at": "2020-11-12T08:05:19",
+            "author_id": "3191688452",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1326512951977783296"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19",
+                        "description": null
+                    }
+                }
+            ],
+            "conversation_id": "1326798214801068032"
+        },
+        {
+            "id": "1326798211923709953",
+            "text": "RT @MazzellMaurizio: Elezioni Usa, Biden non ha vinto, TV e politici mentono: i veri risultati live\n@realDonaldTrump @jimmomo @Capezzone \nh??",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "MazzellMaurizio"
+                    },
+                    {
+                        "start": 100,
+                        "end": 116,
+                        "username": "realDonaldTrump"
+                    },
+                    {
+                        "start": 117,
+                        "end": 125,
+                        "username": "jimmomo"
+                    },
+                    {
+                        "start": 126,
+                        "end": 136,
+                        "username": "Capezzone"
+                    }
+                ]
+            },
+            "lang": "it",
+            "inReplyToStatusId": "1326563731090890756",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 134,
+            "quoteCount": 0,
+            "tweetType": "retweeted",
+            "created_at": "2020-11-12T08:05:19",
+            "author_id": "1025345033384411137",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1326563731090890756"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 134,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "Former US Vice President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "Former US Vice President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1326798211923709953"
+        },
+        {
+            "id": "1326798210988470276",
+            "text": "@nytimes https://t.co/AZaHY8L0mu",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "nytimes"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 9,
+                        "end": 32,
+                        "url": "https://t.co/AZaHY8L0mu",
+                        "expanded_url": "https://currentaffairshub123.blogspot.com/2020/11/usa-post-elections-2020.html",
+                        "display_url": "currentaffairshub123.blogspot.com/2020/11/usa-po??"
+                    }
+                ]
+            },
+            "lang": "und",
+            "inReplyToStatusId": "1326706306074488837",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "replied_to",
+            "created_at": "2020-11-12T08:05:18",
+            "author_id": "1092840378200440834",
+            "in_reply_to_user_id": "807095",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1326706306074488837"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10040666972",
+                        "name": "The New York Times",
+                        "description": null
+                    }
+                }
+            ],
+            "conversation_id": "1326706306074488837"
+        },
+        {
+            "id": "1326798209268789248",
+            "text": "@azzurri #cnn, #covid, #texas, #million case, Texas is the first State of USA to top 1 million cases,\n#coronavirus, #Italy \n#covid19,\n#covid-19,\n#sarscov2,\n#usa,\n#mask,\n#stayhome,\n#wearmask,\n#covidcases,\n#deadtoll, https://t.co/F643l56Fv2",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 9,
+                        "end": 13,
+                        "tag": "cnn"
+                    },
+                    {
+                        "start": 15,
+                        "end": 21,
+                        "tag": "covid"
+                    },
+                    {
+                        "start": 23,
+                        "end": 29,
+                        "tag": "texas"
+                    },
+                    {
+                        "start": 31,
+                        "end": 39,
+                        "tag": "million"
+                    },
+                    {
+                        "start": 102,
+                        "end": 114,
+                        "tag": "coronavirus"
+                    },
+                    {
+                        "start": 116,
+                        "end": 122,
+                        "tag": "Italy"
+                    },
+                    {
+                        "start": 124,
+                        "end": 132,
+                        "tag": "covid19"
+                    },
+                    {
+                        "start": 134,
+                        "end": 140,
+                        "tag": "covid"
+                    },
+                    {
+                        "start": 145,
+                        "end": 154,
+                        "tag": "sarscov2"
+                    },
+                    {
+                        "start": 156,
+                        "end": 160,
+                        "tag": "usa"
+                    },
+                    {
+                        "start": 162,
+                        "end": 167,
+                        "tag": "mask"
+                    },
+                    {
+                        "start": 169,
+                        "end": 178,
+                        "tag": "stayhome"
+                    },
+                    {
+                        "start": 180,
+                        "end": 189,
+                        "tag": "wearmask"
+                    },
+                    {
+                        "start": 191,
+                        "end": 202,
+                        "tag": "covidcases"
+                    },
+                    {
+                        "start": 204,
+                        "end": 213,
+                        "tag": "deadtoll"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "azzurri"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 215,
+                        "end": 238,
+                        "url": "https://t.co/F643l56Fv2",
+                        "expanded_url": "https://www.youtube.com/watch?v=II6ew7yDiOM",
+                        "display_url": "youtube.com/watch?v=II6ew7??"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 46,
+                        "end": 50,
+                        "probability": 0.959,
+                        "type": "Place",
+                        "normalized_text": "Texas"
+                    },
+                    {
+                        "start": 74,
+                        "end": 76,
+                        "probability": 0.799,
+                        "type": "Place",
+                        "normalized_text": "USA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": "1326651985794306052",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "replied_to",
+            "created_at": "2020-11-12T08:05:18",
+            "author_id": "822880592790491136",
+            "in_reply_to_user_id": "469508969",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1326651985794306052"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19",
+                        "description": null
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment",
+                        "description": null
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related",
+                        "description": null
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10040667043",
+                        "name": "CNN",
+                        "description": null
+                    }
+                }
+            ],
+            "conversation_id": "1326648298669805568"
+        },
+        {
+            "id": "1326798207695937537",
+            "text": "RT @mcannonbrookes: Next time anyone tells you Australia should have followed Sweden's approach... they just passed the USA for cases/capit??",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 18,
+                        "username": "mcannonbrookes"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 47,
+                        "end": 55,
+                        "probability": 0.9888,
+                        "type": "Place",
+                        "normalized_text": "Australia"
+                    },
+                    {
+                        "start": 78,
+                        "end": 83,
+                        "probability": 0.9747,
+                        "type": "Place",
+                        "normalized_text": "Sweden"
+                    },
+                    {
+                        "start": 120,
+                        "end": 122,
+                        "probability": 0.9039,
+                        "type": "Place",
+                        "normalized_text": "USA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": "1326660156394930176",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 339,
+            "quoteCount": 0,
+            "tweetType": "retweeted",
+            "created_at": "2020-11-12T08:05:18",
+            "author_id": "1196923496451805185",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1326660156394930176"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 339,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": null,
+            "conversation_id": "1326798207695937537"
+        },
+        {
+            "id": "1326798206420856832",
+            "text": "Walnut Creek CA USA - Entry Level Event Marketing Assistant - We are actively seeking a motivated En: We are actively seeking a motivated Entry Level Event Marketing Assistant to work on ground breaking campaigns with an a https://t.co/QxOrN8S19Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 223,
+                        "end": 246,
+                        "url": "https://t.co/QxOrN8S19Z",
+                        "expanded_url": "http://dld.bz/hKatX",
+                        "display_url": "dld.bz/hKatX",
+                        "status": 200,
+                        "title": "HOT JOBS & COOL JOBS: ENTRY LEVEL EVENT MARKETING ASSISTANT WALNUT CREEK CA USA",
+                        "description": "ENTRY LEVEL EVENT MARKETING ASSISTANT WALNUT CREEK CA USA -- Find that Perfect Job Today at Medical Yellow Pages",
+                        "unwound_url": "https://www.e-physician.info/jobs/?q=Entry+Level+Event+Marketing+Assistant&l=Walnut+Creek+CA+USA&z=&tw=&k="
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 18,
+                        "probability": 0.6936,
+                        "type": "Place",
+                        "normalized_text": "Walnut Creek CA USA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": null,
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "DEFAULT",
+            "created_at": "2020-11-12T08:05:17",
+            "author_id": "294717759",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": null,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857879016971186177",
+                        "name": "Marketing",
+                        "description": "Marketing"
+                    }
+                }
+            ],
+            "conversation_id": "1326798206420856832"
+        },
+        {
+            "id": "1326798205674262529",
+            "text": "RT @alley167: I will Stand by Our amazing President @realDonaldTrump, and the brave men and women who protect ALL American's \uD83C\uDDFA\uD83C\uDDF8\nGod Bless T??",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 12,
+                        "username": "alley167"
+                    },
+                    {
+                        "start": 52,
+                        "end": 68,
+                        "username": "realDonaldTrump"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": "1326716628428595202",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 696,
+            "quoteCount": 0,
+            "tweetType": "retweeted",
+            "created_at": "2020-11-12T08:05:17",
+            "author_id": "947040432982315008",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1326716628428595202"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 696,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "conversation_id": "1326798205674262529"
+        },
+        {
+            "id": "1326798205334540290",
+            "text": "RT @irishpriincess: se t?? ruim pros franceses que s?o estereotipados com boina vermelha, imagina pros latinos que s?o representados por um??",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 18,
+                        "username": "irishpriincess"
+                    }
+                ]
+            },
+            "lang": "pt",
+            "inReplyToStatusId": "1326568638497890304",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 177,
+            "quoteCount": 0,
+            "tweetType": "quoted",
+            "created_at": "2020-11-12T08:05:17",
+            "author_id": "836366089600790529",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1326568638497890304"
+                },
+                {
+                    "type": "retweeted",
+                    "id": "1326583772318474245"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 177,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "1311008292336934912",
+                        "name": "Emily in Paris",
+                        "description": null
+                    }
+                }
+            ],
+            "conversation_id": "1326798205334540290"
+        },
+        {
+            "id": "1326798204969607174",
+            "text": "Orlando FL USA - Mortgage Warehouse Lending Collateral Control Specialist - Reasonable accommodation: Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. 1. Hig https://t.co/5eY9Hfh0Hd",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 223,
+                        "end": 246,
+                        "url": "https://t.co/5eY9Hfh0Hd",
+                        "expanded_url": "http://dld.bz/jmSrx",
+                        "display_url": "dld.bz/jmSrx"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "probability": 0.6784,
+                        "type": "Place",
+                        "normalized_text": "Orlando FL USA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": null,
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "DEFAULT",
+            "created_at": "2020-11-12T08:05:17",
+            "author_id": "1963020919",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": null,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847529762566230016",
+                        "name": "Business and finance",
+                        "description": "Business"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "847888632711061504",
+                        "name": "Personal finance",
+                        "description": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "847894425464324096",
+                        "name": "Mortgage",
+                        "description": "Mortgage"
+                    }
+                }
+            ],
+            "conversation_id": "1326798204969607174"
+        },
+        {
+            "id": "1326798203547684865",
+            "text": "Fontana CA USA - Warehouse - Warehouse can be dusty and hot. Steel toed shoes required. Safety gla: Warehouse can be dusty and hot. Steel toed shoes required. Safety glasses required. Must meet the company hiring crit https://t.co/dxKzi1ZORN",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 218,
+                        "end": 241,
+                        "url": "https://t.co/dxKzi1ZORN",
+                        "expanded_url": "http://dld.bz/jf9N6",
+                        "display_url": "dld.bz/jf9N6"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "probability": 0.2395,
+                        "type": "Place",
+                        "normalized_text": "Fontana CA USA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": null,
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "DEFAULT",
+            "created_at": "2020-11-12T08:05:17",
+            "author_id": "2230115640",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": null,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": null,
+            "conversation_id": "1326798203547684865"
+        },
+        {
+            "id": "1326798203455475713",
+            "text": "\uD83E\uDD16Voxel Rogue\"Greedroid\"\uD83D\uDEF8\nFor #NintendoSwitch \n\nfor USA\nhttps://t.co/C51EMcaVNo\n\nfor EU &lt;Available now!&gt;\nhttps://t.co/Pozo6inezt\n\n#indiedev #indiegame #indiegamedev #Roguelike\n\nhttps://t.co/quQRJoIIhP",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 29,
+                        "end": 44,
+                        "tag": "NintendoSwitch"
+                    },
+                    {
+                        "start": 135,
+                        "end": 144,
+                        "tag": "indiedev"
+                    },
+                    {
+                        "start": 145,
+                        "end": 155,
+                        "tag": "indiegame"
+                    },
+                    {
+                        "start": 156,
+                        "end": 169,
+                        "tag": "indiegamedev"
+                    },
+                    {
+                        "start": 170,
+                        "end": 180,
+                        "tag": "Roguelike"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 55,
+                        "end": 78,
+                        "url": "https://t.co/C51EMcaVNo",
+                        "expanded_url": "https://nintendo.com/games/detail/greedroid-switch/",
+                        "display_url": "nintendo.com/games/detail/g??"
+                    },
+                    {
+                        "start": 110,
+                        "end": 133,
+                        "url": "https://t.co/Pozo6inezt",
+                        "expanded_url": "https://nintendo.co.uk/Games/Nintendo-Switch-download-software/Greedroid-1779281.html",
+                        "display_url": "nintendo.co.uk/Games/Nintendo??"
+                    },
+                    {
+                        "start": 182,
+                        "end": 205,
+                        "url": "https://t.co/quQRJoIIhP",
+                        "expanded_url": "https://twitter.com/plicy_en/status/1260164959138279425/video/1",
+                        "display_url": "pic.twitter.com/quQRJoIIhP"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 53,
+                        "end": 55,
+                        "probability": 0.5287,
+                        "type": "Place",
+                        "normalized_text": "USA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": "1326798201588998145",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "replied_to",
+            "created_at": "2020-11-12T08:05:17",
+            "author_id": "786903170261790720",
+            "in_reply_to_user_id": "786903170261790720",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1326798201588998145"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847868745150119936",
+                        "name": "Home & family",
+                        "description": "Hobbies and interests"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "1046600434796785664",
+                        "name": "Indie gaming and development",
+                        "description": "Indie gaming and development"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "79",
+                        "name": "Video Game Hardware",
+                        "description": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "856739783577554949",
+                        "name": "Nintendo Switch",
+                        "description": "Nintendo Switch"
+                    }
+                }
+            ],
+            "conversation_id": "1326798199529607168"
+        },
+        {
+            "id": "1326798202864082944",
+            "text": "????????x????T?????????????^?????????�o???????????????\n\n??????????????????????��??x????????T???????????��???��?y?I?x????????????????????????????^????��?????????????????? \n\n????????https://t.co/GtglAjJHxV?????x??\nhttps://t.co/HMZQg9TKzI",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 114,
+                        "end": 137,
+                        "url": "https://t.co/GtglAjJHxV",
+                        "expanded_url": "http://CNN.co.jp",
+                        "display_url": "CNN.co.jp"
+                    },
+                    {
+                        "start": 142,
+                        "end": 165,
+                        "url": "https://t.co/HMZQg9TKzI",
+                        "expanded_url": "https://www.cnn.co.jp/usa/35162368.html?ref=rss",
+                        "display_url": "cnn.co.jp/usa/35162368.h??"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 25,
+                        "end": 52,
+                        "probability": 0.2498,
+                        "type": "Organization",
+                        "normalized_text": "??????????? ???????????????????????"
+                    }
+                ]
+            },
+            "lang": "ja",
+            "inReplyToStatusId": null,
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "DEFAULT",
+            "created_at": "2020-11-12T08:05:16",
+            "author_id": "1202224291539906562",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": null,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": null,
+            "conversation_id": "1326798202864082944"
+        },
+        {
+            "id": "1326798202083880960",
+            "text": "Sylva NC USA - Certified Occupational Therapy Assistant PRN - Delegation of Authority As a Certified: Delegation of Authority As a Certified Occupational Therapist Assistant you are delegated the administrative authority r https://t.co/xP9Z0hVWum",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 223,
+                        "end": 246,
+                        "url": "https://t.co/xP9Z0hVWum",
+                        "expanded_url": "http://dld.bz/jmSrw",
+                        "display_url": "dld.bz/jmSrw",
+                        "status": 200,
+                        "title": "HOT JOBS & COOL JOBS: CERTIFIED OCCUPATIONAL THERAPY ASSISTANT PRN SYLVA NC USA",
+                        "description": "CERTIFIED OCCUPATIONAL THERAPY ASSISTANT PRN SYLVA NC USA -- Find that Perfect Job Today at Medical Yellow Pages",
+                        "unwound_url": "https://www.e-physician.info/jobs/?q=Certified+Occupational+Therapy+Assistant+PRN&l=Sylva+NC+USA&z=&tw=&k="
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "probability": 0.617,
+                        "type": "Place",
+                        "normalized_text": "Sylva NC USA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": null,
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "DEFAULT",
+            "created_at": "2020-11-12T08:05:16",
+            "author_id": "2287038420",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": null,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": null,
+            "conversation_id": "1326798202083880960"
+        },
+        {
+            "id": "1326798201236688896",
+            "text": "RT @TerliWetter: ?That is madness!??\n\nWas in den USA abgeht ist wirklich beunruhigend.\n\nhttps://t.co/WNRGLR5RP1",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "TerliWetter"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 87,
+                        "end": 110,
+                        "url": "https://t.co/WNRGLR5RP1",
+                        "expanded_url": "https://twitter.com/TheLeadCNN/status/1326273860971470857/video/1",
+                        "display_url": "pic.twitter.com/WNRGLR5RP1"
+                    }
+                ]
+            },
+            "lang": "de",
+            "inReplyToStatusId": "1326462445913772032",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 60,
+            "quoteCount": 0,
+            "tweetType": "retweeted",
+            "created_at": "2020-11-12T08:05:16",
+            "author_id": "102157523",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1326462445913772032"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 60,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": null,
+            "conversation_id": "1326798201236688896"
+        },
+        {
+            "id": "1326798200779517953",
+            "text": "@realDonaldTrump @ChgocadChic If it's too late to restore balance and the corruption can't be reigned in and we have to be subject to control then push the button and end it all for everyone in the USA \uD83C\uDDFA\uD83C\uDDF8\uD83D\uDDFD??\uD83D\uDD2B\uD83D\uDDFD??\uD83C\uDDFA\uD83C\uDDF8\uD83D\uDD2B\uD83C\uDDFA\uD83C\uDDF8\uD83D\uDD2B??\n\nIt's better to die and stop corruption now than allow it power",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "realDonaldTrump"
+                    },
+                    {
+                        "start": 17,
+                        "end": 29,
+                        "username": "ChgocadChic"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 198,
+                        "end": 200,
+                        "probability": 0.9776,
+                        "type": "Place",
+                        "normalized_text": "USA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": "1326662184403865602",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "replied_to",
+            "created_at": "2020-11-12T08:05:16",
+            "author_id": "733874912352468992",
+            "in_reply_to_user_id": "25073877",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1326662184403865602"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "conversation_id": "1326662184403865602"
+        },
+        {
+            "id": "1326798200615948290",
+            "text": "Minneapolis MN USA - IV Pharmacy Technician Minneapolis MN - RPh on the Go needs a Pharmacy Technici: RPh on the Go needs a Pharmacy Technician south of Minneapolis MN This position will begin as soon as possible and the c https://t.co/vVFo5FKwzd",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 223,
+                        "end": 246,
+                        "url": "https://t.co/vVFo5FKwzd",
+                        "expanded_url": "http://dld.bz/jmSru",
+                        "display_url": "dld.bz/jmSru"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 17,
+                        "probability": 0.6651,
+                        "type": "Place",
+                        "normalized_text": "Minneapolis MN USA"
+                    },
+                    {
+                        "start": 44,
+                        "end": 57,
+                        "probability": 0.5537,
+                        "type": "Place",
+                        "normalized_text": "Minneapolis MN"
+                    },
+                    {
+                        "start": 153,
+                        "end": 166,
+                        "probability": 0.5322,
+                        "type": "Place",
+                        "normalized_text": "Minneapolis MN"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": null,
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "quoteCount": 0,
+            "tweetType": "DEFAULT",
+            "created_at": "2020-11-12T08:05:16",
+            "author_id": "330603534",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": null,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": null,
+            "conversation_id": "1326798200615948290"
+        },
+        {
+            "id": "1326798200527851522",
+            "text": "RT @ashitaninareba7: ??kohyu1952 ??liyonyon @KentGilbert01\n??????????y?I????x????h??????m?????v?S?? https://t.co/RXdjb5kicb\n??????2018??????g????\n\n #???? #?i?? #?????",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 127,
+                        "end": 130,
+                        "tag": "????"
+                    },
+                    {
+                        "start": 131,
+                        "end": 134,
+                        "tag": "?i??"
+                    },
+                    {
+                        "start": 135,
+                        "end": 138,
+                        "tag": "????"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "ashitaninareba7"
+                    },
+                    {
+                        "start": 21,
+                        "end": 31,
+                        "username": "kohyu1952"
+                    },
+                    {
+                        "start": 32,
+                        "end": 41,
+                        "username": "liyonyon"
+                    },
+                    {
+                        "start": 42,
+                        "end": 56,
+                        "username": "KentGilbert01"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 83,
+                        "end": 106,
+                        "url": "https://t.co/RXdjb5kicb",
+                        "expanded_url": "https://reut.rs/2Ob0Ckk",
+                        "display_url": "reut.rs/2Ob0Ckk"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 57,
+                        "end": 61,
+                        "probability": 0.8518,
+                        "type": "Person",
+                        "normalized_text": "???????"
+                    }
+                ]
+            },
+            "lang": "ja",
+            "inReplyToStatusId": "1326788817609756672",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 2,
+            "quoteCount": 0,
+            "tweetType": "retweeted",
+            "created_at": "2020-11-12T08:05:16",
+            "author_id": "877458649433554944",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1326788817609756672"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1070710937881993220",
+                        "name": "Koyu Nishimura",
+                        "description": "Japanese journalist, contributing editor"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1070726525467602944",
+                        "name": "Kent Gilbert",
+                        "description": "American actor in Japan"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "56",
+                        "name": "Actor",
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+                    },
+                    "entity": {
+                        "id": "1070726525467602944",
+                        "name": "Kent Gilbert",
+                        "description": "American actor in Japan"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1070710937881993220",
+                        "name": "Koyu Nishimura",
+                        "description": "Japanese journalist, contributing editor"
+                    }
+                }
+            ],
+            "conversation_id": "1326798200527851522"
+        },
+        {
+            "id": "1326798199743533056",
+            "text": "RT @BreeNewsome: America??s ??far left?? is advocating for universal healthcare??something that exists in every developed nation on earth excep??",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "BreeNewsome"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 17,
+                        "end": 23,
+                        "probability": 0.9905,
+                        "type": "Place",
+                        "normalized_text": "America"
+                    }
+                ]
+            },
+            "lang": "en",
+            "inReplyToStatusId": "1326606289162674176",
+            "likeCount": 0,
+            "replyCount": 0,
+            "retweetCount": 15956,
+            "quoteCount": 0,
+            "tweetType": "retweeted",
+            "created_at": "2020-11-12T08:05:16",
+            "author_id": "148398551",
+            "in_reply_to_user_id": null,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1326606289162674176"
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 15956,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": null,
+            "conversation_id": "1326798199743533056"
+        }
+    ],
+    "status": "success"
+}
