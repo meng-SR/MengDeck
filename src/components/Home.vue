@@ -21,7 +21,7 @@
 
 <script>
 import { mapGetters } from "vuex";
-import Plate from "@/views/Plate.vue";
+import Plate from "@/components/Plate.vue";
 export default {
   name: "Home",
   components: {
